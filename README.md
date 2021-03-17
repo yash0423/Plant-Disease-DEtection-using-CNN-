@@ -13,7 +13,7 @@ Usage:
 -Click on File->new->project->
 -In wizards Click on Maven->Maven Project
 -check this box  (skip archetype selection)
--give it a Group Id and an Artifact Id, e.g.  it.rcpvision.dl4j  and  it.rcpvision.dl4j.workbench
+-give it a Group Id and an Artifact Id,
 -Now open Pom.xml file from file manager on the left side
 -copy the content Dependencies.xml file in pom .xml
 
